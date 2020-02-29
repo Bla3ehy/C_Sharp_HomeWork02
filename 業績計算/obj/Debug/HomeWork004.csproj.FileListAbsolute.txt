@@ -1,0 +1,9 @@
+C:\Users\aa415\source\repos\HomeWork\HomeWork004\obj\Debug\HomeWork004.csprojAssemblyReference.cache
+C:\Users\aa415\source\repos\HomeWork\HomeWork004\obj\Debug\HomeWork004.Form1.resources
+C:\Users\aa415\source\repos\HomeWork\HomeWork004\obj\Debug\HomeWork004.Properties.Resources.resources
+C:\Users\aa415\source\repos\HomeWork\HomeWork004\obj\Debug\HomeWork004.csproj.GenerateResource.cache
+C:\Users\aa415\source\repos\HomeWork\HomeWork004\bin\Debug\HomeWork004.exe.config
+C:\Users\aa415\source\repos\HomeWork\HomeWork004\bin\Debug\HomeWork004.exe
+C:\Users\aa415\source\repos\HomeWork\HomeWork004\bin\Debug\HomeWork004.pdb
+C:\Users\aa415\source\repos\HomeWork\HomeWork004\obj\Debug\HomeWork004.exe
+C:\Users\aa415\source\repos\HomeWork\HomeWork004\obj\Debug\HomeWork004.pdb

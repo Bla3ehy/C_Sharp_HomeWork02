@@ -1,0 +1,12 @@
+C:\Users\aa415\source\repos\HomeWork\HomeWork003\bin\Debug\HomeWork003.exe.config
+C:\Users\aa415\source\repos\HomeWork\HomeWork003\bin\Debug\HomeWork003.exe
+C:\Users\aa415\source\repos\HomeWork\HomeWork003\bin\Debug\HomeWork003.pdb
+C:\Users\aa415\source\repos\HomeWork\HomeWork003\obj\Debug\HomeWork003.exe
+C:\Users\aa415\source\repos\HomeWork\HomeWork003\obj\Debug\HomeWork003.pdb
+C:\Users\aa415\source\repos\HomeWork\HomeWork003\obj\Debug\HomeWork003.csprojAssemblyReference.cache
+C:\Users\aa415\source\repos\HomeWork\Console LED\bin\Debug\HomeWork003.exe.config
+C:\Users\aa415\source\repos\HomeWork\Console LED\bin\Debug\HomeWork003.exe
+C:\Users\aa415\source\repos\HomeWork\Console LED\bin\Debug\HomeWork003.pdb
+C:\Users\aa415\source\repos\HomeWork\Console LED\obj\Debug\HomeWork003.csprojAssemblyReference.cache
+C:\Users\aa415\source\repos\HomeWork\Console LED\obj\Debug\HomeWork003.exe
+C:\Users\aa415\source\repos\HomeWork\Console LED\obj\Debug\HomeWork003.pdb
